@@ -13,4 +13,4 @@
 
 The customizations could be installed as ordinary FlashDevelop [extension](http://www.flashdevelop.org/wikidocs/index.php?title=Extensions), which is recommended. You may create extension by yourself (create zip archive of the `src` folder, name it 'AssassinGray.fdz' and double-click) or use one from `bin` folder.
 
-However you are free to pick only specific settings from the repository and place them at "User config files.." of your FlashDevelop. It's not recommended a approach and may destroy your current settings without possibility to restore.
+However you are free to pick only specific settings from the repository and place them at "User config files.." of your FlashDevelop. It's not recommended approach and may destroy your current settings without possibility to restore afterwards.
