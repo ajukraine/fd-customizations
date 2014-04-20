@@ -1,7 +1,7 @@
 # Customizations for FlashDevelop 4.3+
 
 ## Contents
-* Color theme (UI and syntax) "AssassinGray" (based on SinGray built-in theme). *Requires* "Terminus" font to be installed (available at http://terminus-font.sourceforge.net/).
+* Color theme (UI and syntax) "AssassinGray" (based on SinGray built-in theme). **Requires** "Terminus" font to be installed (available at http://terminus-font.sourceforge.net/).
 
 ![AS3 code](screenshots/as3_code.png)
 
